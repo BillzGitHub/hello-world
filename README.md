@@ -1,5 +1,5 @@
 # hello-world
-This is my first supposito... I mean repository
+This is my first repository
 
 Hi!
 
